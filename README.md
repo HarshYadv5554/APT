@@ -382,11 +382,3 @@ MIT License - see LICENSE file for details.
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
-
-## 📞 Support
-
-For questions or issues, please create an issue in the repository or contact the development team.
-
----
-
-**Built with ❤️ for the APT Interview Assignment**
